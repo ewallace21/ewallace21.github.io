@@ -45,6 +45,16 @@ Skills
 * QTSpim
 * Microsoft Excel
 
+Relevant Coursework
+======
+* Embedded Systems
+* Digital Design I and II
+* Principles of Computer Architecture
+* Integrated Design Project
+* Data Structures and Algorithms
+* Digital Image Processing
+* Major Design Experience
+
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
