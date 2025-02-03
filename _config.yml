@@ -21,7 +21,7 @@ repository               : "ewallace21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Emma Wallace"
   pronouns         : "She/Her/Hers" # example: "she/her"  
   bio              : "Senior Computer Engineering student, with minors in Mathematics and Popular Culture, seeking internship or research position. Interest in accessibility, hardware development, and computer architecture."
