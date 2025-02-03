@@ -55,6 +55,7 @@ Relevant Coursework
 * Digital Image Processing
 * Major Design Experience
 
+     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
