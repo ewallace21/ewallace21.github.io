@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Emma Wallace / Portfolio"
+title                    : "Emma Wallace / Personal Website"
 title_separator          : "-"
 name                     : &name "Emma Wallace"
-description              : &description "Emma Wallace's computer engineering project portfolio"
+description              : &description "Emma Wallace's computer engineering portfolio"
 url                      : https://ewallace21.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ewallace21.github.io"
