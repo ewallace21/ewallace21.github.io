@@ -25,6 +25,13 @@ Projects
   * Collaborated with a team to design a solution for the accessibility/safety challenge of the competition.
   * Led the design of accessibility features for both the queue/preshow and ride, focusing on inclusive guest experiences.
   * Created concept art for the ride vehicle and platform, incorporating wheelchair accessibility.
+ 
+* December 2024 - April 2025: Ohio State University Ride Engineering Competition, Virginia Tech Team
+  * Team awarded second place overall with outstanding marks for site acceptance testing
+  * Subteam lead for theming electrical/controls design
+  * Designed and implemented animatronic dragon head, with fully timed and functional jaw movements and timed pulsing LED eyes
+  * Implemented pulsing lava effect with RGB LED strip, utilizing only red color to minimize heat generated
+  * Developed and performed site acceptance testing for controls team and electrical theming elements
   
 Skills
 ======
@@ -62,4 +69,4 @@ Service and leadership
 ======
 * Treasurer, Chi Omega Fraternity - Sigma Lambda Chapter: February 2024 - February 2025
 * Personnel Chair, Chi Omega Fraternity - Sigma Lambda Chapter: December 2023 - February 2024
-* Theming Electrical Subteam Lead, Ride Engineering Competition: December 2024 - Present
+* Theming Electrical Subteam Lead, Ride Engineering Competition: December 2024 - April 2025
