@@ -8,9 +8,6 @@ redirect_from:
   - /cv.html
 ---
 
-{% include base_path %}
-{% for post in site.cv reversed %}
-
 Education
 ======
 * B.S. in Computer Engineering, Virginia Tech, December 2025 (expected)
