@@ -40,4 +40,7 @@ While we had to make trade-offs due to time and resource limitations, *Journey I
 
 ---
 
-*You can embed gameplay previews or screenshots here if available.*
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/dQw4w9WgXcQ](https://youtube.com/shorts/cgxd4b1auWU?si=RuM1RE7dKHQc46m8)" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
