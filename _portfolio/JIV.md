@@ -39,8 +39,6 @@ This project went beyond coding—it tested our ability to:
 While we had to make trade-offs due to time and resource limitations, *Journey Into Vanem* gave us practical experience at the intersection of hardware design, embedded systems, and game development. With additional development time, future improvements could include smoother jump mechanics, animated enemies, and character selection functionality.
 
 ---
+[[Watch the Gamplay Here!] [https://www.youtube.com/embed/dQw4w9WgXcQ](https://youtube.com/shorts/cgxd4b1auWU?si=RuM1RE7dKHQc46m8)]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
 
