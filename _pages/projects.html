@@ -7,43 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.projects reversed %}
-
-<section>
-  <h2>Projects</h2>
-
-  <article>
-    <h3>Ohio State University Ride Engineering Competition, Virginia Tech Team</h3>
-    <p><strong>December 2024 – April 2025</strong></p>
-    <ul>
-      <li>Team awarded second place overall with outstanding marks for site acceptance testing.</li>
-      <li>Served as subteam lead for theming electrical/controls design.</li>
-      <li>Designed and implemented an animatronic dragon head with functional jaw movements and pulsing LED eyes.</li>
-      <li>Created a pulsing lava effect using a red-only RGB LED strip to minimize heat generation.</li>
-      <li>Developed and conducted site acceptance testing for controls and themed electrical systems.</li>
-    </ul>
-  </article>
-
-  <article>
-    <h3>Toronto Met University Thrill Design Competition</h3>
-    <p><strong>Fall 2024</strong></p>
-    <ul>
-      <li>Collaborated with a team to design a thrill ride based on the qualifying round prompt, contributing to storyline layout for the ride, queue, and preshow.</li>
-      <li>Helped design a solution for the competition's accessibility and safety challenge.</li>
-      <li>Led the design of accessibility features for the queue, preshow, and ride, focusing on inclusive guest experiences.</li>
-      <li>Created concept art for a wheelchair-accessible ride vehicle and platform.</li>
-    </ul>
-  </article>
-
-  <article>
-    <h3>Sophomore Integrated Design Project</h3>
-    <p><strong>Spring 2024</strong></p>
-    <ul>
-      <li>Co-developed a wireless sensor node for temperature data collection with Bluetooth connectivity to mobile devices.</li>
-      <li>Powered the system via solar energy (4–5V input) charging a 9V rechargeable battery for off-grid operation.</li>
-      <li>Implemented power-saving features to enter low-power mode when idle, extending circuit component lifespan.</li>
-    </ul>
-  </article>
-</section>
+{% for post in site.portfolio reversed %}
   {% include archive-single.html %}
 {% endfor %}
