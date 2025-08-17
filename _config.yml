@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Emma Wallace / Personal Website"
+title                    : "Emma Wallace / Portfolio"
 title_separator          : "-"
 name                     : &name "Emma Wallace"
 description              : &description "Emma Wallace's computer engineering portfolio"
@@ -24,10 +24,10 @@ author:
   avatar           : "profile.jpg"
   name             : "Emma Wallace"
   pronouns         : "She/Her/Hers" # example: "she/her"  
-  bio              : "Senior Computer Engineering student, with minors in Mathematics and Popular Culture, seeking internship or research position. Interest in accessibility, hardware development, and computer architecture."
+  bio              : "Senior Computer Engineering student at Virginia Tech, with minors in Popular Culture and Mathematics, seeking engineering position in themed entertainment. Interest in accessibility, controls, and themed interactive entertainment technology."
   location         : "Blacksburg, VA"
   employer         : "Virginia Tech"
-  email            : "emmaw21@vt.edu" 
+  email            : "emma.kr.wallace@gmail.com" 
 
   # Repositories and software development
   github           : "ewallace21"
