@@ -18,7 +18,7 @@ Experience
 ======
 
 * Busch Gardens Williamsburg, Leadership Intern, Ride Operations: May 2025 - August 2025
-  * Assistant Supervisor and certified operator for DarKoaster(Intamin), Verbolten(Zierer), and The Big Bad Wolf: The Wolf's Revenge(Bollinger & Mabillard).
+  * Assistant Supervisor and certified operator for DarKoaster (Intamin), Verbolten (Zierer), and The Big Bad Wolf: The Wolf's Revenge (Bolliger & Mabillard).
   * Gained hands-on experience in ride operations, enhancing understanding of both guest experience and employee engagement.
   * Participated in weekly cross-departmental seminars to broaden operational knowledge across park functions (e.g., entertainment, engineering, guest services).
   * Collaborated in a team of four to design and present a park improvement project to the President and Vice President, incorporating guest feedback and operational efficiency strategies.
