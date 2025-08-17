@@ -1,6 +1,6 @@
 ---
 title: "Senior Major Design Experience"
-excerpt: "Open-source hardware Trusted Platform Module, sponsored by Lenovo.<br/><img src='/images/jiv.jpg'>"
+excerpt: "Open-source hardware Trusted Platform Module, sponsored by Lenovo.<br/><img src='/images/tpm.png'>"
 collection: portfolio
 ---
 ## Overview
