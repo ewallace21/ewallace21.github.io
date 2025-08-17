@@ -1,6 +1,6 @@
 ---
 title: "Journey Into Vanem"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Two-player flash game with awesome graphics on an FPGA.<br/><img src='/images/jiv.jpg'>"
 collection: portfolio
 ---
 # *Journey Into Vanem* — A Co-op Platformer on FPGA
