@@ -11,6 +11,8 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Engineering, Virginia Tech, December 2025 (expected)
+  * Popular Culture Minor
+  * Mathematics Minor
 
 Experience
 ======
