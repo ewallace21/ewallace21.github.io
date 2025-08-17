@@ -56,6 +56,8 @@ Relevant Coursework
   
 Service and leadership
 ======
+* DarKoaster/Verbolten Assistant Supervisor Ride Operations, Busch Gardens Williamsburg: May 2025 - August 2025
+* Theming Electrical Subteam Lead, Ride Engineering Competition: December 2024 - April 2025
 * Treasurer, Chi Omega Fraternity - Sigma Lambda Chapter: February 2024 - February 2025
 * Personnel Chair, Chi Omega Fraternity - Sigma Lambda Chapter: December 2023 - February 2024
-* Theming Electrical Subteam Lead, Ride Engineering Competition: December 2024 - April 2025
+
