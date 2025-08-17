@@ -42,4 +42,8 @@ While we had to make trade-offs due to time and resource limitations, *Journey I
 
 <iframe width="342" height="607" src="https://www.youtube.com/embed/cgxd4b1auWU" title="July 18, 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+---
+[![GitHub](https://img.shields.io/badge/View%20on-GitHub-black?logo=github)](https://github.com/ewallace21/JourneyIntoVanem)
+
+
 
