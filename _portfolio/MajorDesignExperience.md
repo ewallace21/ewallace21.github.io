@@ -5,28 +5,39 @@ collection: portfolio
 ---
 ## Overview
 
-This project is an open-source hardware implementation of a **Trusted Platform Module (TPM)** built on an FPGA, following the **TPM 2.0 specification** from the Trusted Computing Group (TCG). Designed for integration within a **Datacenter Secure Control Module (DC-SCM)** architecture, this work aims to provide a verifiable and modifiable platform security solution for modern data center environments.
+As **Team Lead**, I am currently guiding the development of the foundational framework for a fully open-source FPGA implementation of a **Trusted Platform Module (TPM 2.0)**. This system is being designed in alignment with the **Trusted Computing Group (TCG) specification** and is intended for integration into **Datacenter Secure Control Module (DC-SCM)** architectures.
 
-The project includes a complete system design covering:
-- An **I/O interface module** for SPI communication with the host system
-- A **management controller** for operational state transitions
-- An **execution engine** to handle TPM command processing
+This is a **multi-phase, ongoing initiative** launched by our senior design team as part of our capstone engineering experience, and is sponsored and guided by Lenovo. Our focus is on architecting and implementing the core framework, establishing a strong technical and documentation foundation for future teams to expand upon. The first phase of the project is scheduled for completion by **October 31, 2025**.
 
-The current implementation focuses on architectural framework and module-level communication in preparation for full TPM 2.0 functionality to be completed by future development teams.
+Our work aims to deliver a transparent, extensible, and secure hardware security solution capable of being independently verified and freely adapted for research, commercial, or educational use.
+
+### Current Focus:
+- Implementation of a modular control and execution framework in Verilog
+- Designing communication interfaces between the TPM logic and host via SPI
+- Building and testing internal state machines and data buffers for command processing
+
+## My Role
+
+As the project’s **Team Lead**, I am responsible for:
+- Defining system-level architecture and module responsibilities
+- Coordinating cross-functional collaboration within the team
+- Ensuring adherence to open-source licensing and TPM 2.0 protocol specifications
+- Overseeing verification, documentation, and milestone tracking
 
 ## Goals
 
-- Develop an open-source, hardware-based TPM accessible for FPGA users  
-- Avoid reliance on proprietary or platform-specific IP cores  
-- Establish a verified design foundation for future standards-compliant TPM implementations
+- Deliver a hardware-based TPM compliant with TPM 2.0 over SPI  
+- Maintain portability across general-purpose FPGAs (no vendor lock-in)  
+- Establish a foundation for future teams to implement cryptographic modules  
+- Contribute to the transparency and auditability of hardware security
 
 ## Technical Highlights
 
-- Compliant with **SPI Mode 0 (3.3V, 24 MHz)** per TCG PC Client Profile  
-- Designed using **Verilog HDL** for FPGA deployment  
-- Structured for portability across general-purpose FPGAs  
-- All work licensed under an **open-source license** to promote transparency and security research
+- Interface: **3.3V SPI (Mode 0), 24 MHz**, per TCG Client TPM Profile  
+- Language: **Verilog HDL**, designed for portability across FPGA platforms  
+- Modular design for separation of I/O, control, execution, and buffering  
+- Fully open-source under a permissive license, hosted on GitHub
 
 ## Motivation
 
-While software-based TPMs exist, they lack the physical trust assurances needed in secure hardware environments. A hardware-based, open-source TPM provides greater transparency, facilitates independent verification, and helps mitigate firmware-level attacks—an increasingly important consideration in high-assurance systems.
+Existing TPM implementations are predominantly software-based or proprietary, limiting both trust and transparency in secure hardware systems. This project provides an alternative: a **hardware-based, open-source TPM** designed for open verification and extensibility—key principles in modern cybersecurity and trusted computing.
